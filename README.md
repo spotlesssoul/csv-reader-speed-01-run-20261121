@@ -1,8 +1,8 @@
 # csv-reader-speed-01-run-20261121
 
 [![make.fun · CSV Reader Speed](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
-[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/spotlesssoul/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/spotlesssoul/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/spotlesssoul/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/spotlesssoul/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 A dependency-free, high-performance JavaScript drop-in for make.fun's `csv-reader` 1.0.0. It preserves the reference parser's output while reading valid and malformed CSV inputs.
 
